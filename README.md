@@ -15,11 +15,7 @@ Book Store CLI application with Inquirer include implementation of crud operatio
 - when you perform any action you will be asked after 'back to main menu?' answer with 'yes' if you want continue using app
 - if you want close app answer with anything else
 
-```bash
-# development mode
-$ npm install
-$ node index.js
-```
+
 
 ## Stay in touch
 
