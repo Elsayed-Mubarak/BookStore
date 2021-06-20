@@ -23,4 +23,4 @@ $ node index.js
 
 ## Stay in touch
 
-- Author - [Sayed Mubarak](https://github.com/Elsayed-Mubarak)
+- Author - [Sayed Mubarak](https://github.com/Elsayed-Mubarak/BookStore)
